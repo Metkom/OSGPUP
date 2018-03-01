@@ -1,3 +1,6 @@
+% Copyright: 2018 - Teknik Geofisika, Universitas Pertamina
+% URL: https://sites.google.com/site/metkomup/programming
+
 clear; close; clc;
 
 %Konstanta
