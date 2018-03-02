@@ -1,5 +1,6 @@
 % Copyright: 2018 - Teknik Geofisika, Universitas Pertamina
 % URL: https://sites.google.com/site/metkomup/programming
+% Cite: E.B.G. Umboh, et. al. 2018. Forward modelling metode gravitasi. http://doi.org/10.5281/zenodo.1186957 
 
 clear; close; clc;
 
