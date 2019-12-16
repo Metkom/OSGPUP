@@ -9,3 +9,7 @@ OSGPUP: An open-source library for geophysical data processing and interpretatio
 All scripts in this repository are avalaible in [MATLAB file exchange](https://www.mathworks.com/matlabcentral/profile/authors/11048576-komputasi-geofisika) and [official website](https://sites.google.com/site/metkomup/programming). All articles and scripts can be accessed in [figshare.com](https://figshare.com/articles/Komputasi_Geofisika_1_Pemodelan_dan_Prosesing_Geofisika_dengan_Octave_Matlab/5950375).
 
 
+<a cover href="https://figshare.com/articles/Komputasi_Geofisika_1_Pemodelan_dan_Prosesing_Geofisika_dengan_Octave_Matlab/5950375">
+  <img src="https://github.com/Metkom/OSGPUP/blob/master/cover.png" width="100%">
+</a>
+
