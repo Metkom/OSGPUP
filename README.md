@@ -5,4 +5,5 @@
 ![GitHub forks](https://img.shields.io/github/forks/Metkom/OSGPUP.svg?style=social)
 
 # OSGPUP
-OSGPUP: An open-source library for geophysical data processing and interpretation based on C++, Perl, Octave and Python.     
+OSGPUP: An open-source library for geophysical data processing and interpretation based on C++, Perl, Octave and Python. 
+All scripts in this repository are avalaible in [MATLAB file exchange](https://www.mathworks.com/matlabcentral/profile/authors/11048576-komputasi-geofisika) and [official website](https://sites.google.com/site/metkomup/programming).
