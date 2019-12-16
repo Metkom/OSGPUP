@@ -10,6 +10,6 @@ All scripts in this repository are avalaible in [MATLAB file exchange](https://w
 
 
 <a cover href="https://figshare.com/articles/Komputasi_Geofisika_1_Pemodelan_dan_Prosesing_Geofisika_dengan_Octave_Matlab/5950375">
-  <img src="https://github.com/Metkom/OSGPUP/blob/master/cover.png" width="100%">
+  <img src="https://github.com/Metkom/OSGPUP/blob/master/cover.png" width="80%">
 </a>
 
