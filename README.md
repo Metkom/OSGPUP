@@ -13,3 +13,6 @@ All scripts in this repository are avalaible in [MATLAB file exchange](https://w
   <img src="https://github.com/Metkom/OSGPUP/blob/master/cover.png" width="80%">
 </a>
 
+## License
+OSGPUP is released under the MIT License (refer to the [LICENSE](https://github.com/Metkom/OSGPUP/blob/master/LICENSE) file for details).
+
