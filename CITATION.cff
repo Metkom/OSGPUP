@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Abdullah"
+  given-names: "Agus"
+- family-names: "Heriyanto"
+  given-names: "Mohammad"
+  orcid: "https://orcid.org/0000-0003-2182-2866"
+- family-names: "R. Prabusetyo"
+  given-names: "Hardianto"
+title: "OSGPUP"
+version: v1.1
+date-released: 2018-12-02
+url: "https://github.com/Metkom/OSGPUP"
+preferred-citation:
+  type: software-code
+  authors:
+  - family-names: "Abdullah"
+    given-names: "Agus"
+  - family-names: "Heriyanto"
+    given-names: "Mohammad"
+    orcid: "https://orcid.org/0000-0003-2182-2866"
+  - family-names: "R. Prabusetyo"
+    given-names: "Hardianto"
+  doi: "10.6084/m9.figshare.5950375.v2"
+  url: "https://figshare.com/articles/Komputasi_Geofisika_1_Pemodelan_dan_Prosesing_Geofisika_dengan_Octave_Matlab/5950375"
+  month: 3
+  start: 1 # First page number
+  end: 100 # Last page number
+  title: "Komputasi Geofisika 1: Pemodelan dan Prosesing Geofisika  dengan Octave/Matlab"
+  year: 2018
