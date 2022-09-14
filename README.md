@@ -24,13 +24,14 @@ OSGPUP is released under the MIT License (refer to the [LICENSE](https://github.
 
 ## Citation
 If you find this project useful for your research, please use the following BibTeX entry.
-    
-    @article{Abdullah2018,
-    author = "Agus Abdullah and Mohammad Heriyanto and Hardianto Rizky Prabusetyo and Komputasi Geofisika",
-    title = "{Komputasi Geofisika 1: Pemodelan dan Prosesing Geofisika  dengan Octave/Matlab}",
-    year = "2018",
-    month = "3",
-    url = "https://figshare.com/articles/Komputasi_Geofisika_1_Pemodelan_dan_Prosesing_Geofisika_dengan_Octave_Matlab/5950375",
-    doi = "10.6084/m9.figshare.5950375.v2"
-    }
 
+```BibTeX
+@article{Abdullah2018,
+  author = "Agus Abdullah and Mohammad Heriyanto and Hardianto Rizky Prabusetyo and Komputasi Geofisika",
+  title = "{Komputasi Geofisika 1: Pemodelan dan Prosesing Geofisika  dengan Octave/Matlab}",
+  year = "2018",
+  month = "3",
+  url = "https://figshare.com/articles/Komputasi_Geofisika_1_Pemodelan_dan_Prosesing_Geofisika_dengan_Octave_Matlab/5950375",
+  doi = "10.6084/m9.figshare.5950375.v2"
+}
+```
